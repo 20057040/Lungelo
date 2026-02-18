@@ -1,3 +1,4 @@
+
 # Lungelo
 # 👋 Hello, I'm a Developer!
 
@@ -31,20 +32,20 @@ Another significant project you're proud of.
 
 ## 🌱 Currently Learning
 
-- Cloud Architecture & DevOps
+- Software Development
 - Advanced System Design
 - New frameworks and technologies
 
 ## 📚 Featured Articles
 
-- [Article Title 1](#) - Brief description
-- [Article Title 2](#) - Brief description
+- [Article Title 1](#) - Software Development
+- [Article Title 2](#) - Financial Development
 
 ## 💬 Let's Connect
 
 I'm always interested in collaborating on exciting projects or having interesting tech discussions!
 nkosilungelo281@gmail.com
-- **Website/Blog**: [Your Portfolio](#)
+- **Website/Blog**: [Lungelo](#)
 
 ## 📊 Contribution Activity
 
